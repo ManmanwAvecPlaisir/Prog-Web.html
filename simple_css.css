@@ -1,0 +1,20 @@
+﻿#header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24pt;
+    margin-left: 0px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    padding:10px;
+}
+
+body{
+    margin: 0px;
+    background-color: #ebebeb;
+}
+
+test{
+    color:white;
+}
